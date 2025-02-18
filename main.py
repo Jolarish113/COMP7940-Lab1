@@ -1,5 +1,6 @@
 def main():
     print("this is a test")
 
-if _name_ == "_main_":
+if __name__ == "_main_":
     main()
+main()
